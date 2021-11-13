@@ -1,0 +1,138 @@
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\appsettings.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.exe
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.deps.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.runtimeconfig.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.runtimeconfig.dev.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\ref\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.Services.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\ArcraftAPI.Models.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.Services.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\ArcraftAPI.Models.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.csproj.AssemblyReference.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.AssemblyInfoInputs.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.AssemblyInfo.cs
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.csproj.CoreCompileInputs.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\staticwebassets\AircraftAPI.StaticWebAssets.Manifest.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\staticwebassets\AircraftAPI.StaticWebAssets.xml
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\scopedcss\bundle\AircraftAPI.styles.css
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.RazorTargetAssemblyInfo.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.csproj.CopyComplete
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\ref\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.genruntimeconfig.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\appsettings.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.exe
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.deps.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.runtimeconfig.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.runtimeconfig.dev.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\ref\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.Services.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\ArcraftAPI.Models.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.Services.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\bin\Debug\net5.0\ArcraftAPI.Models.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.csproj.AssemblyReference.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.AssemblyInfoInputs.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.AssemblyInfo.cs
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.csproj.CoreCompileInputs.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\staticwebassets\AircraftAPI.StaticWebAssets.Manifest.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\staticwebassets\AircraftAPI.StaticWebAssets.xml
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\scopedcss\bundle\AircraftAPI.styles.css
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.RazorTargetAssemblyInfo.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.csproj.CopyComplete
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\ref\AircraftAPI.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI\obj\Debug\net5.0\AircraftAPI.genruntimeconfig.cache

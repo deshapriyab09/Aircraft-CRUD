@@ -1,0 +1,54 @@
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.deps.json
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.runtimeconfig.json
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.runtimeconfig.dev.json
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\ref\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\ArcraftAPI.Models.dll
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\bin\Debug\net5.0\ArcraftAPI.Models.pdb
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.AssemblyReference.cache
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.AssemblyInfoInputs.cache
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.AssemblyInfo.cs
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.CopyComplete
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\ref\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\prjAircraftCRUD\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.genruntimeconfig.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.deps.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.runtimeconfig.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.runtimeconfig.dev.json
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\ref\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\ArcraftAPI.Models.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\ArcraftAPI.Models.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.AssemblyReference.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.AssemblyInfoInputs.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.AssemblyInfo.cs
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.CopyComplete
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\ref\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\OK\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.genruntimeconfig.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.deps.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.runtimeconfig.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.runtimeconfig.dev.json
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\ref\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\ArcraftAPI.Models.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\bin\Debug\net5.0\ArcraftAPI.Models.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.AssemblyReference.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.AssemblyInfoInputs.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.AssemblyInfo.cs
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.CoreCompileInputs.cache
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.csproj.CopyComplete
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\ref\AircraftAPI.DataAccess.dll
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.pdb
+D:\Development\Rusada\1.2021-11-10\Aircraft API\Aircraft API\AircraftAPI\AircraftAPI.DataAccess\obj\Debug\net5.0\AircraftAPI.DataAccess.genruntimeconfig.cache
